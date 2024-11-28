@@ -46,3 +46,5 @@ I'm excited to showcase my latest data analysis and visualization project! This 
 - **Sales Channels**: Internet, Reseller
 
 This project showcases my skills in data analysis and visualization, providing a clear and concise summary of AdventureWorks' sales data. It is a valuable tool for stakeholders to make informed decisions and drive the company's success.
+<img width="635" alt="Adventureworks sales reports" src="https://github.com/user-attachments/assets/eb3f6c30-6d69-471b-a3b5-43cbb1834eee">
+
