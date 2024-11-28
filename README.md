@@ -6,6 +6,8 @@ I'm excited to showcase my latest data analysis and visualization project! This 
 - **Total Orders**: 275K
 - **Total Profit**: $12.55M
 - **Total Revenue**: $109.81M
+- **Total Product Cost**: $97.26M
+- **Profit Margin**: 11.43%
 
 ## Key Insights:
 - **Revenue by Sales Channel**:
